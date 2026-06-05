@@ -130,6 +130,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-## Task 5: 
-<img width="1899" height="733" alt="image-1780669929479" src="https://github.com/user-attachments/assets/46aadadc-e28d-498a-87a8-7799885a96a6" />
+## Task 5: Project repo setup
+
+![Project repo branches](task5-branches.png)
 
