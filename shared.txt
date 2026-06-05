@@ -1,1 +1,1 @@
-Repo B conflicting change on same file
+Repo A changes line 1 and Repo B conflicting change combined
