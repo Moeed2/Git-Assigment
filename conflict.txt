@@ -1,1 +1,1 @@
-This is the LEFT branch change
+This is the LEFT branch change and the RIGHT branch change combined
