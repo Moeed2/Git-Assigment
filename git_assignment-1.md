@@ -121,9 +121,15 @@ Contents of `.gitignore`:
 On branch main
 Your branch is up to date with 'origin/main'.
 
+
+
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	.gitignore
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
+
+## Task 5: .gitignore
+<img width="1899" height="733" alt="image-1780669929479" src="https://github.com/user-attachments/assets/46aadadc-e28d-498a-87a8-7799885a96a6" />
+
